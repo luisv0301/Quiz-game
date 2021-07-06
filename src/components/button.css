@@ -1,0 +1,21 @@
+.btn {
+  font-family: inherit;
+  color: white;
+  margin-top: 1.3em;
+  font-size: 0.96rem;
+  border-radius: 4px;
+  padding: 0.5em;
+  margin-bottom: 0.9em;
+  width: 100%;
+  outline: none;
+  border: none;
+  background-color: rgb(137 43 226 / 63%);
+}
+
+.questions {
+  background-color: rgb(137 43 226 / 16%);
+  color: black;
+}
+.btn:active {
+  background-color: rgb(182, 115, 245);
+}

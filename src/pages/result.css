@@ -1,0 +1,12 @@
+.result_score {
+  font-size: 1.5rem;
+  color: blueviolet;
+  font-weight: bold;
+  text-align: center;
+}
+
+.result_link {
+  font-weight: 800;
+  text-decoration: none;
+  margin-top: 1.5rem;
+}
